@@ -1,0 +1,14 @@
+html {
+    background-color: #F8C8DC;
+}
+h1 {
+    font-size: 30px;
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: bold;
+}
+p, li {
+    font-family: "Coiny", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
